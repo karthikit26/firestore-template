@@ -1,4 +1,4 @@
-# chordify_assignment
+# Firestore Template
 
 A new Flutter project.
 
